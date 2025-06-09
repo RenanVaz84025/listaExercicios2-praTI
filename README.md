@@ -1,4 +1,4 @@
-<h1>Lista de 9 exercicios para pratica de estruturas básicas do JS.</h1>
+<h1>Lista de 9 exercicios para pratica de Estruturas de Controle Avançadas, Funções e Recursão e Arrays e Objetos Complexos.</h1>
 
 Os desafios foram propostos durante o curso Dev Full-Stack Jr. oferecido pela +praTi e têm como objetivo fortalecer a lógica de programação, o raciocínio algorítmico e a prática com a linguagem JavaScript.
 
